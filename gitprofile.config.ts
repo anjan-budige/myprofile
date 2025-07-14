@@ -192,7 +192,7 @@ const CONFIG = {
       'procyon',
     ],
   },
-  footer: `Made with <a 
+  footer: `Made by<a 
       class="text-primary" href="https://github.com/anjan-budige"
       target="_blank"
       rel="noreferrer"
