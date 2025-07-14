@@ -196,7 +196,7 @@ const CONFIG = {
       class="text-primary" href="https://github.com/anjan-budige"
       target="_blank"
       rel="noreferrer"
-    >Anjan Budige</a> and ❤️`,
+    >Anjan Budige</a> with ❤️`,
   enablePWA: true,
 };
 
