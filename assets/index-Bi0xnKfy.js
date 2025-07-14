@@ -158,4 +158,4 @@ ${JSON.stringify(S,null,4)}`);function Rt(){Zt&&(Ae={tagName:"",hrefValue:"",ope
       class="text-primary" href="https://github.com/anjan-budige"
       target="_blank"
       rel="noreferrer"
-    >Anjan Budige</a> and ❤️`,enablePWA:!0};r1.createRoot(document.getElementById("root")).render(g.jsx(or.StrictMode,{children:g.jsx(g6,{config:b6})}));
+    >Anjan Budige</a> with ❤️`,enablePWA:!0};r1.createRoot(document.getElementById("root")).render(g.jsx(or.StrictMode,{children:g.jsx(g6,{config:b6})}));
