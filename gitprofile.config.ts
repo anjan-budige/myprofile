@@ -97,7 +97,7 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Genzeon Genzverse Hackathon 7',
+      name: 'Genzeon Genzverse Hackathon',
       body: 'Hackathon (3 days)',
       year: 'Aug 2024',
       link: '',
